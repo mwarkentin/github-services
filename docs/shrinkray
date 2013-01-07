@@ -1,0 +1,7 @@
+Allows you to setup automatic image optimization for a Github repository.
+
+Install Notes
+-------------
+
+1. Signup for an account at http://shrinkray.io
+2. Make sure that you've enabled shrinkray on the repository
